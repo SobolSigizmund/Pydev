@@ -80,3 +80,4 @@ after_script:
 
   # Upload the update m2 repo cache
   - "./travism2_upload.sh"
+
